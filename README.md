@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/877793b0-53d4-472c-b0d2-cb4d8837e7e6)# Interactive Media
+# Interactive Media
 
 ## 목차
 - [프로젝트 기간](프로젝트-기간)
