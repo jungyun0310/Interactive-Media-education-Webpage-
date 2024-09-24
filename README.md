@@ -19,8 +19,7 @@
 </br>
 
 ## 관련 링크
-- [Github URL](https://github.com/soulsdhed/miniproject_im) 
-</br>
+- [Github URL](https://github.com/soulsdhed/miniproject_im)
 - [사이트 URL](https://soulsdhed.github.io/miniproject_im/)
 </br>
 
