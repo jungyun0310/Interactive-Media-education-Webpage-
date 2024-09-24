@@ -2,7 +2,7 @@
 
 </br>
 
-## 목차 <i class="fa-solid fa-bookmark"></i>
+## 목차 📑
 - [프로젝트 기간](#프로젝트-기간)
 - [프로젝트 설명](#프로젝트-설명)
 - [관련 링크](#관련-링크)
@@ -10,26 +10,26 @@
 - [팀원 소개](#팀원-소개)
 </br>
 
-## 프로젝트 기간
+## 프로젝트 기간 📅
 - 2024.06.07 ~ 2024.06.18
 </br>
 
-## 프로젝트 설명
+## 프로젝트 설명 💡
 - 미니 프로젝트 주제가 'Interactive Media'로 정해졌는데, 저희는 그 개념을 잘 몰랐습니다. 그래서 'Interactive Media'가 무엇인지 쉽게 보여주는 사이트를 제작하기로 하였습니다.
 </br>
 
-## 관련 링크
+## 관련 링크 🔗
 - [Github URL](https://github.com/soulsdhed/miniproject_im)
 - [사이트 URL](https://soulsdhed.github.io/miniproject_im/)
 </br>
 
-## 사용한 기술과 라이브러리
+## 사용한 기술과 라이브러리 ✨
 - HTML
 - CSS
 - JavaScript
 </br>
 
-## 팀원 소개
+## 팀원 소개 🧑‍🤝‍🧑
 
 - 신정욱(총괄, 파노라마 이미지 갤러리, 스티커 사진)
 <img src="https://github.com/user-attachments/assets/cbc68fc1-5d0c-4fa7-9f20-27008f38c308" width="900">
