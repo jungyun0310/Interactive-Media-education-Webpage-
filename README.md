@@ -1,4 +1,4 @@
-# Interactive Media
+![image](https://github.com/user-attachments/assets/877793b0-53d4-472c-b0d2-cb4d8837e7e6)# Interactive Media
 
 ## 목차
 - [프로젝트 기간](프로젝트-기간)
@@ -34,10 +34,10 @@
 <img src="https://github.com/user-attachments/assets/0f4d3cae-f39a-437b-b9de-c43457512f73" width="900">
 
 - 최호준(글 소개, 네비게이션 바)
-<img src="https://github.com/user-attachments/assets/d23a5e84-b5c4-4c87-a497-35a154b0c4fe" width="900">
+<img src="https://github.com/user-attachments/assets/d23a5e84-b5c4-4c87-a497-35a154b0c4fe" width="900"></br>
 <img src="https://github.com/user-attachments/assets/767ad034-4de1-4d15-8761-bc4495449926" width="100">
 
-- 임지후(회원가입/로그인")
+- 임지후(회원가입/로그인)
 <img src="https://github.com/user-attachments/assets/e2293681-2a08-4174-9333-9e282a582211" width="900">
 <img src="https://github.com/user-attachments/assets/37b2266a-6c57-4360-a0c2-272eb6d51b5a" width="900">
 
@@ -45,7 +45,7 @@
 <img src="https://github.com/user-attachments/assets/f6f8b2bd-61a8-4abb-b38c-49ae18c9622b" width="900">
 
 - 김정현(인트로, 팀 소개)
-<img src="" width="900">
+<img src="https://github.com/user-attachments/assets/c4a873d1-3125-4f42-ad49-9ac4bd71d01e" width="900">
 <img src="https://github.com/user-attachments/assets/dbb60c51-2e32-4405-818c-31b795452105" width="900">
 
 - 임정윤(인터렉티브 무비)
