@@ -25,28 +25,29 @@
 
 ## 팀원 소개
 - 신정욱(총괄, 파노라마 이미지 갤러리, 스티커 사진)
-![갤러리](https://github.com/user-attachments/assets/cbc68fc1-5d0c-4fa7-9f20-27008f38c308)
-![스티커사진](https://github.com/user-attachments/assets/81f3d9f0-b615-4e45-bbcf-c11971fe10ff)
-![스티커사진 세부화면](https://github.com/user-attachments/assets/0d54b20f-e2c7-4542-bc3f-881f2fc9f6ba)
+<img src="https://github.com/user-attachments/assets/cbc68fc1-5d0c-4fa7-9f20-27008f38c308" width="900">
+<img src="https://github.com/user-attachments/assets/81f3d9f0-b615-4e45-bbcf-c11971fe10ff" width="900">
+<img src="https://github.com/user-attachments/assets/0d54b20f-e2c7-4542-bc3f-881f2fc9f6ba" width="900">
 
 - 손준수(게임)
-![게임](https://github.com/user-attachments/assets/8f30039e-de58-4012-b052-be1812922f8e)
-![퀴즈 세부화면](https://github.com/user-attachments/assets/0f4d3cae-f39a-437b-b9de-c43457512f73)
+<img src="https://github.com/user-attachments/assets/8f30039e-de58-4012-b052-be1812922f8e" width="900">
+<img src="https://github.com/user-attachments/assets/0f4d3cae-f39a-437b-b9de-c43457512f73" width="900">
 
 - 최호준(글 소개, 네비게이션 바)
-![소개](https://github.com/user-attachments/assets/d23a5e84-b5c4-4c87-a497-35a154b0c4fe)
-![사이드바](https://github.com/user-attachments/assets/767ad034-4de1-4d15-8761-bc4495449926)
+<img src="https://github.com/user-attachments/assets/d23a5e84-b5c4-4c87-a497-35a154b0c4fe" width="900">
+<img src="https://github.com/user-attachments/assets/767ad034-4de1-4d15-8761-bc4495449926" width="100">
 
-- 임지후(회원가입/로그인)
-![로그인](https://github.com/user-attachments/assets/e2293681-2a08-4174-9333-9e282a582211)
-![진짜 로그인](https://github.com/user-attachments/assets/37b2266a-6c57-4360-a0c2-272eb6d51b5a)
+- 임지후(회원가입/로그인")
+<img src="https://github.com/user-attachments/assets/e2293681-2a08-4174-9333-9e282a582211" width="900">
+<img src="https://github.com/user-attachments/assets/37b2266a-6c57-4360-a0c2-272eb6d51b5a" width="900">
 
 - 안수현(사이트)
-![site](https://github.com/user-attachments/assets/f6f8b2bd-61a8-4abb-b38c-49ae18c9622b)
+<img src="https://github.com/user-attachments/assets/f6f8b2bd-61a8-4abb-b38c-49ae18c9622b" width="900">
 
 - 김정현(인트로, 팀 소개)
-![팀원소개](https://github.com/user-attachments/assets/dbb60c51-2e32-4405-818c-31b795452105)
+<img src="" width="900">
+<img src="https://github.com/user-attachments/assets/dbb60c51-2e32-4405-818c-31b795452105" width="900">
 
 - 임정윤(인터렉티브 무비)
-![무비](https://github.com/user-attachments/assets/f5c327da-6be8-48d1-b5a3-973a99554afb)
-![무비 세부화면](https://github.com/user-attachments/assets/db47db52-7e04-460e-bbe2-422a18ed1f24)
+<img src="https://github.com/user-attachments/assets/f5c327da-6be8-48d1-b5a3-973a99554afb" width="900">
+<img src="https://github.com/user-attachments/assets/db47db52-7e04-460e-bbe2-422a18ed1f24" width="900">
