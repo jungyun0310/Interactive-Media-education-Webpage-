@@ -2,7 +2,7 @@ console.log("firebase file");
 
 // Firebase 설정객체 : 내 firebase 에대한 정보
 const firebaseConfig = {
-  apiKey: "AIzaSyBjPPPPhjM1zdSWRJs0TKYrlne0nTFKb8M",
+  apiKey: "",
   authDomain: "fir-test-2941b.firebaseapp.com",
   databaseURL: "https://fir-test-2941b-default-rtdb.firebaseio.com",
   projectId: "fir-test-2941b",
