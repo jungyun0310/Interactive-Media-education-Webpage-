@@ -3,11 +3,11 @@
 </br>
 
 ## 목차
-- [프로젝트-기간](https://soulsdhed.github.io/miniproject_im/)
-- [프로젝트 설명](프로젝트-설명)
-- [관련 링크](관련-링크)
-- [사용한 기술과 라이브러리](사용한-기술과-라이브러리)
-- [팀원 소개](팀원-소개)
+- [프로젝트 기간](#프로젝트-기간)
+- [프로젝트 설명](#프로젝트-설명)
+- [관련 링크](#관련-링크)
+- [사용한 기술과 라이브러리](#사용한-기술과-라이브러리)
+- [팀원 소개](#팀원-소개)
 </br>
 
 ## 프로젝트 기간
@@ -21,7 +21,7 @@
 ## 관련 링크
 - [Github URL](https://github.com/soulsdhed/miniproject_im) 
 </br>
-- [배포 URL](https://soulsdhed.github.io/miniproject_im/)
+- [사이트 URL](https://soulsdhed.github.io/miniproject_im/)
 </br>
 
 ## 사용한 기술과 라이브러리
